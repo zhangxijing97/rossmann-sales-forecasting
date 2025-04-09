@@ -21,7 +21,7 @@ def rmspe(y_true, y_pred):
 # =============================================================================
 # 📂 2. Load & Prepare Dataset
 # =============================================================================
-df = pd.read_csv("train.csv", parse_dates=["Date"])
+df = pd.read_csv("data/train.csv", parse_dates=["Date"])
 df.sort_values(["Store", "Date"], inplace=True)
 
 # Filter for Store #1, open days only
