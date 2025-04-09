@@ -51,7 +51,7 @@ You can use this project in **two different ways**:
 
 No setup required. Just click below to open and run the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iITWQHe0wK2meSt0XjT7lxTzRXf4gEwN)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iITWQHe0wK2meSt0XjT7lxTzRXf4gEwN?usp=drive_link)
 
 > ⚠️ Be sure to upload the Kaggle data (`train.csv`, `test.csv`, `store.csv`) into the `data/` folder after launching the notebook.
 
