@@ -51,7 +51,7 @@ You can use this project in **two different ways**:
 
 No setup required. Just click below to open and run the notebook in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/rossmann-sales-forecasting/blob/main/Rossmann_Sales_Comparison.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iITWQHe0wK2meSt0XjT7lxTzRXf4gEwN)
 
 > ⚠️ Be sure to upload the Kaggle data (`train.csv`, `test.csv`, `store.csv`) into the `data/` folder after launching the notebook.
 
@@ -62,7 +62,7 @@ No setup required. Just click below to open and run the notebook in Google Colab
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/your-username/rossmann-sales-forecasting.git
+   git clone git@github.com:zhangxijing97/rossmann-sales-forecasting.git
    cd rossmann-sales-forecasting
    ```
 
