@@ -120,7 +120,7 @@ RMSPE Results:
 ### 📊 Actual vs. Predicted Sales
 
 <p align="center">
-  <img src="figures/prediction_comparison.png" width="750"/>
+  <img src="images/prediction_comparison.png" width="750"/>
 </p>
 
 LightGBM visually and quantitatively outperformed the other models.
